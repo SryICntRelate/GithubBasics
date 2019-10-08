@@ -10,3 +10,6 @@ Basics Commands for Github
 `git push origin [name of the branch]` - pushes the changes in your local repository to the remote repository on Github    
 `git pull origin [name of the branch]` - pulls the changes in a remote repository to your own local repository   
 `git clone [link for the repository]` - clones a remote repository to your local folder   
+`git branch [feature branch]`
+`git log` - show all the backups created in the repository
+`git checkout` - change branch
